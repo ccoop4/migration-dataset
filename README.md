@@ -1,5 +1,7 @@
 # migration-dataset
 
+Dataset is compiled from the publically available IRS migration data
+
 Column Specifics
 
 1. State FIPS Code
