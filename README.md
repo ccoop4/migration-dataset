@@ -11,3 +11,5 @@ Column Specifics
 5. Total in-migration
 6. Total out-migration
 7. Net Migration
+
+Notes: 2005 dataset seems to have some issues so I am looking into that.
